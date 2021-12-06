@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveerk
-- 👀 I’m interested in Data Science, ML/AI at scale 
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Pytorch
 - 💞️ I’m looking to collaborate on Computer vision problems
 - 📫 How to reach me praveerkumar@outlook.com
